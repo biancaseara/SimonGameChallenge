@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/biancaseara/SimonGameChallenge/refs/heads/main/images/demo.png" alt="Simon Game Demo" width="700"/>
+  <img src="https://raw.githubusercontent.com/biancaseara/SimonGameChallenge/refs/heads/main/assets/images/demo.png" alt="Simon Game Demo" width="700"/>
 </p>
 
 ## ✨ About The Project
